@@ -1,0 +1,13 @@
+Coverage_rate,Average_size,model,weight
+0.8839,2.2976,googlenet,0.1
+0.885,2.6636,resnet18,0.1
+0.8767,1.6439,googlenet,0.5
+0.8828,2.1824,resnet18,0.5
+0.8757,1.7359,googlenet,0.9
+0.8835,2.3257,resnet18,0.9
+0.8765,1.7454,googlenet,1.0
+0.8846,2.3612,resnet18,1.0
+0.875,1.7647,googlenet,1.1
+0.8855,2.3664,resnet18,1.1
+0.8789,1.7943,googlenet,1.5
+0.886,2.4198,resnet18,1.5
